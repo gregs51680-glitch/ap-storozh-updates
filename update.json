@@ -1,0 +1,7 @@
+{
+  "versionCode": 2,
+  "versionName": "2.0",
+  "url": "https://raw.githubusercontent.com/gregs51680-glitch/ap-storozh-updates/main/ap-storozh-v2.apk",
+  "sha256": "BE7ECE1D1D504D29A6CF987CE87F1A5DD7AF4ADCB97B27C615BCD6AC58CA9DCB",
+  "notes": "AP-Сторож 2.0: постоянный журнал, удалённый доступ по HTTP, онлайн-обновление"
+}
