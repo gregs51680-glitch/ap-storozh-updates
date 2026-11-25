@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "2.1",
-  "url": "https://raw.githubusercontent.com/gregs51680-glitch/ap-storozh-updates/main/ap-storozh-v3.apk",
-  "sha256": "25552ABDD6D0B7B0ECE252A7C407363CFF2A613952987F274DF612CB39943BCA",
-  "notes": "AP-Сторож 2.1: адрес хранилища обновлений вписан по умолчанию"
+  "versionCode": 7,
+  "versionName": "2.5",
+  "url": "https://raw.githubusercontent.com/gregs51680-glitch/ap-storozh-updates/main/ap-storozh-v7.apk",
+  "sha256": "832377BA364A22D6EEDB57C84F05CDEA15C6F00D9F9B5033A508F255389C11EC",
+  "notes": "AP-Сторож 2.5: установка обновлений без подтверждения (владелец устройства или авто-клик), автопроверка по умолчанию раз в 30 суток"
 }
